@@ -1,0 +1,65 @@
+# .dockerignore - Exclude unnecessary files from Docker build
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Environment files (secrets should be passed via env vars)
+.env
+.env.local
+.env.production
+
+# Output and cache
+output/
+.cache/
+*.log
+
+# Test files
+test_*.py
+*_test.py
+tests/
+
+# Documentation
+*.md
+!README.md
+docs/
+
+# Credentials (should NEVER be in image)
+credentials.json
+service-account.json
+*.pem
+*.key
+
+# Deployment scripts (not needed in container)
+deploy_*.sh
+deploy_*.ps1
+
+# Config examples
+*.example
+
+# OS
+.DS_Store
+Thumbs.db
