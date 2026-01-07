@@ -185,8 +185,7 @@ async def process_resume_pipeline(
             enhanced_experiences=bullet_results,
             skills_section=skills_result,
             client=client,
-            gender=user_info.get("gender"),
-            model=profile_model
+            gender=user_info.get("gender")
         )
 
         step3_time = time.time() - step3_start
