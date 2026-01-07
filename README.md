@@ -243,3 +243,4 @@ For issues or questions, refer to the main project documentation.
 ## Version
 
 **v2.0.0** - Production JSON-only API (December 2024)
+"Deploying via CI/CD" 
