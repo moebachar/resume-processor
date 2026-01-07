@@ -205,7 +205,7 @@ def create_coordinator_user_prompt(
   Domains: {', '.join(project_data.get('domains', []))}
   Technologies: {', '.join(project_data['technologies'][:10])}{'...' if len(project_data['technologies']) > 10 else ''}{roles_text}
   Priority Score: {project_data.get('priority', 0.5)}
-  Achievements: {len(project_data['realisations'])} listed
+  Achievements: {len(project_data.get('realisations', []))} listed
 """
 
     # Extract key job information

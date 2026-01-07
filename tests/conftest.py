@@ -62,7 +62,12 @@ def sample_user_json():
                 "end_date": "2022-12",
                 "location": {"en": "Paris, France", "fr": "Paris, France"},
                 "contexte": "AI-powered application",
-                "technologies": ["Python", "FastAPI", "Docker", "TensorFlow"]
+                "technologies": ["Python", "FastAPI", "Docker", "TensorFlow"],
+                "realisations": [
+                    "Built scalable microservices architecture serving 1M+ users",
+                    "Implemented ML models for personalized recommendations",
+                    "Reduced API latency by 60% through optimization"
+                ]
             },
             "Project B": {
                 "company": "Startup Inc",
@@ -70,7 +75,12 @@ def sample_user_json():
                 "end_date": "2020-12",
                 "location": {"en": "Remote", "fr": "À distance"},
                 "contexte": "Microservices architecture",
-                "technologies": ["Python", "Kubernetes", "PostgreSQL"]
+                "technologies": ["Python", "Kubernetes", "PostgreSQL"],
+                "realisations": [
+                    "Designed and deployed Kubernetes-based infrastructure",
+                    "Implemented CI/CD pipelines reducing deployment time by 80%",
+                    "Maintained 99.9% uptime for critical services"
+                ]
             },
             "Project C": {
                 "company": "Data Co",
@@ -78,7 +88,11 @@ def sample_user_json():
                 "end_date": "2019-05",
                 "location": {"en": "Lyon, France", "fr": "Lyon, France"},
                 "contexte": "Data pipeline",
-                "technologies": ["Python", "Pandas", "Airflow"]
+                "technologies": ["Python", "Pandas", "Airflow"],
+                "realisations": [
+                    "Built ETL pipelines processing 10TB+ data daily",
+                    "Automated data quality checks reducing errors by 95%"
+                ]
             }
         },
         "skills_database": {
