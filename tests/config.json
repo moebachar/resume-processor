@@ -1,0 +1,139 @@
+{
+  "project": {
+    "name": "Job Application Automation System",
+    "version": "1.0.0",
+    "description": "Automated resume and cover letter generation system"
+  },
+  "extraction": {
+    "html": {
+      "output_format": "txt",
+      "default_output_file": "extracted_job.txt",
+      "trafilatura": {
+        "include_comments": false,
+        "include_tables": true,
+        "no_fallback": false,
+        "favor_precision": false
+      },
+      "url_extraction": {
+        "search_length_saved_from": 1000,
+        "search_length_canonical": 5000
+      }
+    },
+    "yaml": {
+      "valid_extensions": [".yaml", ".yml"],
+      "default_output_file": "extracted_job.txt",
+      "required_fields": ["text"]
+    }
+  },
+  "structuring": {
+    "model": "gpt-4o-mini",
+    "temperature": 0,
+    "default_output_file": "structured_job.json",
+    "language_detection": {
+      "french_indicators": ["le", "la", "les", "de", "du", "des", "et", "est", "vous", "notre", "dans", "pour", "avec", "sur"],
+      "english_indicators": ["the", "and", "of", "to", "in", "for", "with", "on", "at", "by", "from", "you", "our"]
+    }
+  },
+  "enhancing": {
+    "default_model": "gpt-4o-mini",
+    "use_coordinator": true,
+    "default_output_file": "enhanced_experiences.json",
+    "project_selection": {
+      "model": "gpt-4o-mini",
+      "scoring_weights": {
+        "tech_weight": 0.40,
+        "domain_weight": 0.20,
+        "achievement_weight": 0.10,
+        "role_weight": 0.25,
+        "priority_weight": 0.05
+      },
+      "auto_select_threshold": 0.65,
+      "gpt_fallback_threshold": 0.65,
+      "min_score_to_consider": 0.40,
+      "temperature": 0.3
+    },
+    "bullet_adaptation": {
+      "model": "gpt-4o-mini",
+      "bullets_per_experience": 4,
+      "max_bullet_length": 150,
+      "min_keywords_per_bullet": 2,
+      "max_keywords_per_bullet": 4,
+      "temperature": 0.6
+    },
+    "coordinator": {
+      "model": "gpt-4o-mini",
+      "temperature": 0.7
+    },
+    "bullet_coordinator": {
+      "model": "gpt-4o-mini",
+      "temperature": 0.6
+    },
+    "profile_generation": {
+      "model": "gpt-4o-mini",
+      "temperature": 0.7
+    },
+    "skills_generation": {
+      "target_technical_skills": 25,
+      "num_soft_skills": 5
+    },
+    "profiles": {
+      "conservative": {
+        "adaptation_level": "conservative",
+        "preserve_original_percent": 70,
+        "max_keywords_per_bullet": 3,
+        "target_technical_skills": 20,
+        "num_soft_skills": 5
+      },
+      "moderate": {
+        "adaptation_level": "moderate",
+        "preserve_original_percent": 50,
+        "max_keywords_per_bullet": 4,
+        "target_technical_skills": 25,
+        "num_soft_skills": 5
+      },
+      "aggressive": {
+        "adaptation_level": "aggressive",
+        "preserve_original_percent": 30,
+        "max_keywords_per_bullet": 5,
+        "target_technical_skills": 30,
+        "num_soft_skills": 5
+      }
+    }
+  },
+  "mapping": {
+    "default_output_file": "resume.json",
+    "default_language": "fr",
+    "templates_dir": "templates"
+  },
+  "pdf_generation": {
+    "generator_path": "resume-pdf-generator",
+    "timeout": 60,
+    "keep_first_page_only": true,
+    "default_output_dir": "output"
+  },
+  "cover_letter": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "max_tokens": 800,
+    "default_output_dir": "output"
+  },
+  "openai": {
+    "default_model": "gpt-4o-mini",
+    "temperature": 0.6,
+    "pricing": {
+      "gpt-4o-mini": {
+        "input_per_million": 0.15,
+        "output_per_million": 0.60
+      },
+      "gpt-4o": {
+        "input_per_million": 2.50,
+        "output_per_million": 10.00
+      }
+    }
+  },
+  "paths": {
+    "inputs_dir": "inputs",
+    "outputs_dir": "output",
+    "results_dir": "results"
+  }
+}

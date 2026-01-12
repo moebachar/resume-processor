@@ -20,8 +20,9 @@ pyyaml>=6.0
 python-dotenv>=1.0.0
 numpy>=1.24.0
 
-# HTTP Client (for health checks)
+# HTTP Client (for health checks and load testing)
 requests>=2.31.0
+aiohttp>=3.9.0
 
 # Testing (for CI/CD and local development)
 pytest>=7.4.0

@@ -1,0 +1,315 @@
+url: https://www.welcometothejungle.com/fr/companies/bankin/jobs/cdi-machine-learning-engineer-h-f-genai-data-platform_paris
+date: 2026-01-08
+time: 15:24:20
+text: |
+  Trouver un job
+  
+  Trouver une entreprise
+  
+  Média
+  
+  Candidatures
+  
+  Opportunités
+  
+  Mon espace
+  
+  Retour
+  CDI - Machine Learning Engineer (H/F) – GenAI & Data Platform
+  CDI
+  Salaire : < 50K €
+  Télétravail fréquent
+  Postuler
+  Sauvegarder
+  BANKIN'
+  CDI - Machine Learning Engineer (H/F) – GenAI & Data Platform
+  RÉSUMÉ DU POSTE
+  CDI
+  Paris
+  Télétravail fréquent
+  Salaire :
+  < 50K €
+  Expérience :
+  > 2 ans
+  Éducation :
+  Bac +5 / Master
+  COMPÉTENCES & EXPERTISES
+  Programmation orientée objet
+  Connaissance des protocoles de sécurité
+  Infrastructure as Code (IaC)
+  Communication
+  Gestion de l’infrastructure cloud
+  +7
+  Postuler
+  Sauvegarder
+  
+  il y a 21 heures
+  
+  Partager
+  
+  BANKIN'
+  
+  Cette offre vous tente ?
+  
+  Postuler
+  Sauvegarder
+  QUESTIONS ET RÉPONSES SUR L'OFFRE
+  L'envoi d'un CV est-il obligatoire pour postuler à cette offre ?
+  Le télétravail est-il possible pour ce poste ?
+  Quel est le type de contrat pour ce poste ?
+  Une lettre de motivation est-elle obligatoire pour postuler à cette offre ?
+  Le poste
+  Descriptif du poste
+  Ta Mission : Démocratiser la Data et propulser Bankin’ dans l’ère GenAI
+  
+  Dans le cadre de l’évolution de notre plateforme vers l’Open Finance et l’intégration de fonctionnalités d’IA Générative, nous renforçons l’équipe Data. Rattaché(e) au Head of Data, ce poste vise à soutenir le déploiement de modèles de Machine Learning et de solutions GenAI, tout en assurant la mise à disposition de la donnée pour les équipes métiers. Il s’agit d’un rôle technique transverse, nécessitant une double compétence en ingénierie logicielle ( MLOps et Cloud) et en Analytics (Python, SQL, dbt).
+  
+  Tes Responsabilités au quotidien
+  
+  Le poste s’articule autour de quatre axes techniques majeurs :
+  
+  1. Machine Learning Engineering & GenAI
+  
+  Déploiement de modèles : Industrialisation et mise en production des modèles de Machine Learning (catégorisation des transactions, scoring, prédiction) développés par l’équipe.
+  
+  Intégration GenAI & MCP : Conception et développement de serveurs respectant le standard MCP (Model Context Protocol). L’objectif est de créer des interfaces standardisées permettant aux LLMs d’interagir de manière sécurisée avec les données utilisateurs et les services internes.
+  
+  Architecture applicative : Développement en Python de services robustes et scalables pour servir les prédictions.`
+  
+  2. Cloud Infrastructure & DevOps
+  
+  Environnement AWS : Gestion et maintenance de l’infrastructure Data sur Amazon Web Services (maîtrise des services EC2/Sagemaker/Redshift/Lambda et stockage S3).
+  
+  Infrastructure as Code (IaC) : Provisionnement et gestion des ressources via Terraform pour garantir une infrastructure reproductible et auditable.
+  
+  CI/CD & Versioning : Maintenance des pipelines d’intégration continue et utilisation avancée de Git.
+  
+  3. Analytics Engineering (dbt & SQL)
+  
+  Modélisation de données : Construction et maintenance des pipelines de transformation via dbt. Création de tables et de vues optimisées (Data Marts) pour alimenter les modèles ML et les outils d’analyse.
+  
+  Qualité de données : Implémentation de tests automatiques et documentation des modèles de données pour garantir la fiabilité des KPIs.
+  
+  4. Business Intelligence & Data Enablement
+  
+  Dashboarding & Reporting : Conception et maintenance de dashboards de pilotage pour les équipes Produit, Marketing et Finance (suivi de l’engagement utilisateur, analyse de rétention, performance des nouvelles fonctionnalités).
+  
+  Approche Self-Service : Structuration de la donnée et évangélisation des outils pour permettre aux équipes métiers d’être autonomes dans leurs requêtes simples.
+  
+  Support Analytique : Traduction des besoins business en spécifications techniques et réalisation d’analyses ad-hoc complexes pour supporter la prise de décision stratégique.
+  
+  Ce poste en CDI, basé au 4 rue de la Pierre Levée (Paris 11ème), est à pourvoir dès que possible
+  
+  Plus globalement
+  
+  Bankin’ est dans une phase de croissance très rapide : c’est le bon moment pour rejoindre l’aventure et la vivre de l’intérieur.
+  
+  Les + de l’aventure :
+  
+  Une application avec un vrai impact sur le quotidien de nos utilisateurs et la gestion de leur argent
+  
+  Une ambiance de travail au top, bienveillant et positive (et ce sont nos collaborateurs qui le disent !)
+  
+  Des bureaux au centre de Paris (métro République/Parmentier/Oberkampf)
+  
+  Une politique de remote très favorable (2 à 3 jours de télétravail par semaine pour tous les collaborateurs)
+  
+  Des avantages : Accord d’intéressement, tickets restaurant (Carte Swile), fruits frais et café/thé à volonté…
+  
+  Des congés pour te reposer : 10 jours de repos en plus des congés légaux
+  
+  Voir moins
+  Profil recherché
+  
+  Tu es diplômé(e) d’une école d’ingénieur ou d’un Master spécialisé en Informatique / Data Science
+  
+  Tu disposes d’un expérience réussie de 2 ans minimum (dont expériences significatives en stages et en alternances) en mise en production de code et l’analyse de données business.
+  
+  Compétences Techniques Indispensables
+  
+  Python : Développement orienté objet, bonnes pratiques de code.
+  
+  SQL : Maîtrise avancée (jointures, agrégations, window functions).
+  
+  AWS : Expérience pratique sur les services cloud fondamentaux.
+  
+  Git : Gestion de version et workflows collaboratifs (branches, pull requests, résolution de conflits).
+  
+  Outils BI : Capacité et volonté de construire des visualisations de données pertinentes.
+  
+  Compétences Appréciées
+  
+  Maîtrise de dbt et des concepts de Data Warehousing.
+  
+  Expérience avec Terraform et l’IaC.
+  
+  Connaissance du protocole MCP ou développement avec des frameworks d’agents.
+  
+  Montrer de l’intérêt pour l’application Bankin’
+  
+  Soft skills
+  
+  Rigueur : Sens aigu de la qualité et de la sécurité des données bancaires.
+  
+  Esprit d’ingénieur : Capacité à concevoir des systèmes durables et automatisés.
+  
+  Sens Business : Capacité à comprendre les enjeux du produit derrière la donnée technique.
+  
+  Voir moins
+  Déroulement des entretiens
+  
+  -Un premier échange en visio avec Margot de notre équipe RH
+  
+  -Un échange avec Antoine, notre Head of Data
+  
+  -Un cas pratique en conditions (presque) réelles avec notre équipe tech
+  
+  -Un entretien de fit avec les personnes avec qui tu serais amené à travailler au quotidien
+  
+  Envie d’en savoir plus ?
+  
+  Rencontrez François, Chief Data Officer
+  
+  Rencontrez Lucas, Head Of Cloud
+  
+  Découvrez l'entreprise
+  
+  Explorez la vitrine de l’entreprise ou suivez-la pour savoir si elle vous correspond vraiment !
+  
+  Explorer l’entreprise
+  Suivre
+  ILS SONT SOCIABLES
+  L'entreprise
+  BANKIN'
+  Application mobile, Banque
+  33 collaborateurs
+  Créée en 2011
+  Âge moyen : 30 ans
+  Voir le site
+  Voir toutes les offres
+  4
+  Qui sont-ils ?
+  
+  ‍Avec Bankin’, plus de 10 millions d’utilisateurs prennent de meilleures décisions pour leur argent.
+  
+  Nous sommes convaincus que la gestion d’argent doit être simple, accessible et agréable. Nous nous chargeons de la partie fastidieuse du travail pour que les utilisateurs puissent se concentrer sur ce qui compte pour eux.
+  
+  Nous aidons au quotidien à gérer le budget de millions de Français de façon automatique, optimiser leurs dépenses pour économiser, à gagner de l’argent quand on en dépense avec le Cashback et à réaliser ses projets en épargnant ou empruntant en quelques clics de l’argent.
+  
+  Indépendants de toute institution financière, cela nous permet d’accompagner nos utilisateurs sans conflit d’intérêt.
+  
+  Nous nous engageons à être à l’avant-garde de l’innovation en développant la meilleure application pour aider à gérer simplement votre argent.
+  
+  Nous construisons le futur de la gestion d’argent. Rejoignez-nous !
+  
+  Voir plus
+  Les avantages salariés
+  Entre 3-4 jours de télétravail
+  RTT / Jour de repos
+  Team building
+  Afterworks, Déjeuners d'équipe, etc.
+  Salle d’allaitement
+  Voir tous les avantages
+  5
+  Le lieu de travail
+  4 Rue de la Pierre Levée, 75011 Paris, France
+  D’autres offres vous correspondent !
+  
+  Ces entreprises recrutent aussi au poste de “Données/Business Intelligence”.
+  
+  Agentic AI Engineer
+  NOLEJ
+  CDI
+  Tourcoing, Paris
+  Télétravail fréquent
+  Application mobile, E-commerce
+  20 collaborateurs
+  
+  hier
+  
+  Junior Data Engineer: Cloud & DevOps
+  PAPERNEST
+  CDI
+  Paris
+  Télétravail fréquent
+  Application mobile, Immobilier commercial
+  900 collaborateurs
+  
+  avant-hier
+  
+  AI Engineer
+  EMERIA TECHNOLOGIES
+  CDI
+  Paris
+  Télétravail fréquent
+  Application mobile, Logiciels
+  140 collaborateurs
+  
+  avant-hier
+  
+  Head of Data (F/H)
+  KOALA INTERACTIVE
+  CDI
+  Levallois-Perret
+  Télétravail fréquent
+  Application mobile, Logiciels
+  39 collaborateurs
+  
+  avant-hier
+  
+  Senior Platform Data Engineer - Paris/Montpellier
+  SWILE
+  CDI
+  Montpellier, Paris
+  Télétravail fréquent
+  Application mobile, Restauration
+  900 collaborateurs
+  
+  avant-hier
+  
+  Déjà vu
+  Ingénieur(e) IA
+  GALADRIM
+  CDI
+  Paris
+  Télétravail occasionnel
+  Application mobile, IT / Digital
+  150 collaborateurs
+  
+  avant-hier
+  
+  Voir toutes les offres
+  
+  A PROPOS
+  
+  Concept
+  Qui sommes-nous ?
+  Offres d'emploi
+  Offres de stage
+  Centre d'aide
+  
+  NOUS RENCONTRER
+  
+  Human After All
+  Presse
+  Jobs
+  Tarifs
+  Besoin d’aide ?
+  Assistance entreprise
+  
+  LA NEWSLETTER QUI FAIT LE TAF
+  
+  Une fois par semaine, des histoires, des jobs et des conseils dans votre boite mail.
+  
+  Je m'abonne
+  Vous pouvez vous désabonner à tout moment. On n'est pas susceptibles, promis. Pour en savoir plus sur notre politique de protection des données, 
+  cliquez-ici.
+  Employeurs
+  Mon espace employeur
+  Mentions légales
+  CGU
+  Politique de confidentialité
+  Chartes Welcome to the Jungle
+  Politique cookies
+  Gestion des cookies
+  France (FR)

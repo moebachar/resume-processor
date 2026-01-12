@@ -1,0 +1,335 @@
+url: https://www.welcometothejungle.com/fr/companies/metroscope/jobs/data-engineer_paris_METRO_DrOqN30
+date: 2026-01-08
+time: 15:15:44
+text: |
+  Trouver un job
+  
+  Trouver une entreprise
+  
+  Média
+  
+  Candidatures
+  
+  Opportunités
+  
+  Mon espace
+  
+  Retour
+  METROSCOPE
+  Data Engineer - Data Scientist
+  CDI
+  Paris
+  Télétravail fréquent
+  Salaire :
+  45K à 65K €
+  Expérience :
+  > 2 ans
+  Éducation :
+  Bac +5 / Master
+  Postuler
+  Sauvegarder
+  
+  avant-hier
+  
+  Partager
+  
+  METROSCOPE
+  
+  Cette offre vous tente ?
+  
+  Postuler
+  Sauvegarder
+  QUESTIONS ET RÉPONSES SUR L'OFFRE
+  L'envoi d'un CV est-il obligatoire pour postuler à cette offre ?
+  Le télétravail est-il possible pour ce poste ?
+  Quel est le type de contrat pour ce poste ?
+  Une lettre de motivation est-elle obligatoire pour postuler à cette offre ?
+  Le poste
+  Descriptif du poste
+  
+  Nous recherchons un.e Data Engineer - Data Scientist pour notre équipe software, composée actuellement de 2 Engineering Managers, 6 développeurs full stack, 3 data scientists, 1 data engineer, 2 platform engineers, 2 PMs, 1 designer. Tu rejoindras l’équipe Data Platform, seras sous la responsabilité managériale d’un Engineering Manager et travailleras en collaboration directe avec les feature teams applicatives.
+  
+  Il s’agit d’un poste hybride Data Engineer / Data Scientist, avec une forte orientation production, ouvert à des profils intermédiaires à confirmés. Ce poste est ouvert sur Paris avec possibilité de télétravailler 2 jours par semaine. La rémunération dépendra du niveau d’expérience et du périmètre de responsabilités confié.
+  
+  WHAT’S IN FOR YOU?
+  
+  En nous rejoignant :
+  
+  tu contribueras à améliorer l’efficacité de la production électrique en France et dans le monde, et travailleras sur un produit innovant avec des passionnés en choisissant l’angle de la simplification au service de l’industrie
+  
+  tu auras un vrai ownership sur la data platform, et interviendras de bout en bout sur la chaîne de valeur data : de la donnée brute industrielle jusqu’aux modèles utilisés en production sur plus de 100 centrales sur lesquelles Metroscope est déployé
+  
+  tu évolueras dans un environnement technique moderne, avec une forte exigence de qualité, de robustesse et de passage à l’échelle
+  
+  tu interviendras sur du data engineering, mais passeras également une partie de ton temps sur du machine learning, y compris sur la conception et l’implémentation d’algorithmes.
+  
+  TA MISSION
+  
+  Tu auras un rôle mixte Data Engineer et Data Scientist. La répartition devrait être 70 % data engineering, 30 % data science sur les 6 premiers mois (temps de montée en compétence et contribution à un important chantier de migration structurant pour notre data platform), puis environ 50-50. Tu travailleras sur notre logiciel commercial ; ton travail sera donc utilisé quotidiennement en production et maintenu dans le temps.
+  
+  Tes missions principales seront les suivantes :
+  
+  🏗️ Data Engineering
+  
+  Concevoir, maintenir et faire évoluer des pipelines de données industriels (collecte, nettoyage, transformation), monitoring et déploiement inclus. Nous privilégions la production de code générique réutilisable pour plusieurs clients, dans une logique de maintenabilité et scalabilité.
+  
+  Être en support des prospects et clients sur les questions de mise en place de flux de données entre l’IT client et Metroscope
+  
+  📊 Data Science appliquée
+  
+  Développer des modèles statistiques ou de machine learning utilisés en production (pas de POC jetable ; nous vendons du logiciel et non des études), les déployer, les monitorer.
+  
+  Travailler sur la détection d’anomalies sur des séries temporelles, l’estimation des pertes de performances d’unités industrielles, la construction de modèles prévisionnels de production
+  
+  📊 Collaboration, impact et formation
+  
+  Travailler en étroite collaboration avec les platform engineers, les software engineers, les data scientists et les product managers.
+  
+  Être force de proposition sur les choix techniques, méthodologiques et d’architecture data.
+  
+  Continuer à te former et à former les autres, faire vivre l’équipe
+  
+  T’épanouir avec nous !
+  
+  TECH STACK 🖥
+  
+  Cloud provider: Azure
+  
+  Base de données : PostgreSQL, Azure Data Explorer pour les time series (migration vers TimescaleDB envisagée)
+  
+  Orchestrateur : Airflow
+  
+  Langage : Python
+  
+  Data science : pandas, numpy, scikit-learn, MLflow, Streamlit, Polars
+  
+  Infra : Terraform, Kubernetes, Argo CD
+  
+  Monitoring : Grafana, Loki, Prometheus, Alertmanager, OpenTelemetry
+  
+  La maîtrise de l’ensemble de ces outils n’est pas attendue dès l’arrivée.
+  
+  Voir moins
+  Profil recherché
+  
+  FORMATION / EXPÉRIENCE PROFESSIONNELLE & HARD SKILLS
+  
+  Tu as un diplôme d’ingénieur ou un master avec une focale data engineering, data science ou machine learning
+  
+  Tu as une expérience de 2+ ans en data engineering et/ou data science sur du SaaS en production
+  
+  Tu as une solide maîtrise de Python
+  
+  Les mathématiques ne te font pas peur
+  
+  Tu as déjà travaillé en start-up / scale-up
+  
+  Tu parles français et anglais couramment (tu seras en contact avec des interlocuteurs à l’international ; la maîtrise de l’anglais est donc vraiment nécessaire)
+  
+  SOFT SKILLS
+  
+  Tu veux mettre tes compétences au service de la transition énergétique, tu t’intéresses au secteur de l’industrie et tu as envie de comprendre le métier de Metroscope.
+  
+  Tu te décrirais comme pragmatique et rien ne te plaît davantage que trouver une solution simple à un problème complexe.
+  
+  Tu as l’esprit d’équipe et de bonnes capacités de communication
+  
+  Tu es respectueux des autres et de leurs limites, et exigeant envers toi-même
+  
+  BONUS
+  
+  Tu maîtrises Airflow 3
+  
+  Tu as l’expérience de bases de données de séries temporelles de plusieurs TBs, idéalement TimescaleDB
+  
+  Connaissances et compétences en informatique industrielle (PLC, automates, SCADA) et des protocoles et outils associés (OPC UA, MQTT, PI)
+  
+  Tu as l’habitude de recourir au pair programming et de réaliser des code reviews.
+  
+  Tu maîtrises Terraform & Kubernetes
+  
+  Si après avoir lu cette description tu n’es pas certain·e de correspondre complètement à tous les critères mais que ce poste correspond aux compétences que tu aimerais développer, nous t’encourageons fortement à candidater pour nous exprimer tes motivations et ce que tu aimerais apporter à Metroscope !
+  
+  Avantages
+  
+  🚇 Pass Navigo couvert à 75% par Metroscope ou forfait mobilité durable (jusqu’à 700€/an).
+  
+  🍽️ Carte restaurant (9,50€ / jour dont 60% pris en charge par Metroscope).
+  
+  🐻‍❄️ Mutuelle Alan (prise en charge à 70% par Metroscope).
+  
+  🖥️ 300€ Remote set up.
+  
+  💸 Plan d’Épargne Groupe EDF avec abondement
+  
+  💰 Accord d’intéressement (jusqu’à 10% du salaire fixe)
+  
+  🌻 Cours de yoga.
+  
+  🛶 Team buildings & séminaires.
+  
+  Voir moins
+  Déroulement des entretiens
+  
+  Étape 1 : screening interview (20-30 min) avec Emmanuel, Romain ou Julien
+  
+  Étape 2 : Technical assessment (1h30) avec un data engineer et un data scientist
+  - Questions techniques
+  - Exercice technique réaliste
+  
+  Étape 3 : HR interview & CTO interview (2x 30-45 min)
+  
+  Le processus est divisé en plusieurs phases qui peuvent contenir plusieurs entretiens.
+  Nous faisons de notre mieux pour regrouper les entretiens.
+  Aucun travail préparatoire n’est demandé. Les entretiens sont effectués en visio ou en physique.
+  La dernière étape se déroulera impérativement dans nos bureaux parisiens (Saint-Lazare)
+  
+  Envie d’en savoir plus ?
+  
+  Rencontrez Gaspard, Data scientist
+  
+  Meet Thomas, Senior Software Engineer
+  
+  Découvrez l'entreprise
+  
+  Explorez la vitrine de l’entreprise ou suivez-la pour savoir si elle vous correspond vraiment !
+  
+  Explorer l’entreprise
+  Suivre
+  ILS SONT SOCIABLES
+  L'entreprise
+  METROSCOPE
+  Logiciels, Intelligence artificielle / Machine Learning, Energie
+  55 collaborateurs
+  Créée en 2018
+  Âge moyen : 32 ans
+  30%
+  70%
+  Voir le site
+  Voir toutes les offres
+  3
+  Qui sont-ils ?
+  
+  Since 2018 Metroscope helps industry players operate their assets in a sober way. We believe in efficient, local and conscious industry. We leverage AI to fight waste, pollution and uncertainty, turning industry into a force for progress, innovation and sustainability.
+  Our AI is installed on more than 60 industrial assets already and detected more than 2TWh of energy losses last year, in Europe and North America.
+  We have offices in Paris, Berlin and Washington.
+  
+  Metroscope is a member of the EDF Group
+  
+  Voir plus
+  Les avantages salariés
+  Horaires de travail flexibles
+  Remboursement au delà des 50%
+  Forfait mobilité durable
+  Team building
+  Afterworks, Déjeuners d'équipe, etc.
+  Intéressement
+  Voir tous les avantages
+  17
+  Le lieu de travail
+  63 Boulevard Haussmann, 75008 Paris, France
+  Les +
+  
+  Psst... On a plein de choses à vous dire sur les avantages que nous offrons à nos employés.
+  
+  Découvrir
+  D’autres offres vous correspondent !
+  
+  Ces entreprises recrutent aussi au poste de “Données/Business Intelligence”.
+  
+  AI Engineer (GenAI & LLM) – Practice IA MARGO
+  MARGO
+  CDI
+  Paris
+  Télétravail fréquent
+  Logiciels, IT / Digital
+  400 collaborateurs
+  
+  il y a 15 heures
+  
+  Data analyste confirmé F/H
+  THALES
+  CDI
+  Vélizy-Villacoublay
+  Logiciels, Cybersécurité
+  80 000 collaborateurs
+  
+  il y a 16 heures
+  
+  No Code / AI Automation Engineer
+  STOCKLY
+  CDI
+  Paris
+  Télétravail occasionnel
+  Logiciels, E-commerce
+  87 collaborateurs
+  
+  hier
+  
+  AI Engineer
+  EMERIA TECHNOLOGIES
+  CDI
+  Paris
+  Télétravail fréquent
+  Application mobile, Logiciels
+  140 collaborateurs
+  
+  avant-hier
+  
+  Senior Data Engineer (H/F)
+  CODE BUSTERS
+  CDI
+  Courbevoie
+  Télétravail fréquent
+  Logiciels, IT / Digital
+  70 collaborateurs
+  
+  avant-hier
+  
+  Senior AI Engineer (CDI)
+  MUCHBETTER.AI
+  CDI
+  Paris
+  Télétravail occasionnel
+  Salaire :
+  60K à 80K €
+  Logiciels, Intelligence artificielle / Machine Learning
+  15 collaborateurs
+  
+  avant-hier
+  
+  Voir toutes les offres
+  
+  A PROPOS
+  
+  Concept
+  Qui sommes-nous ?
+  Offres d'emploi
+  Offres de stage
+  Centre d'aide
+  
+  NOUS RENCONTRER
+  
+  Human After All
+  Presse
+  Jobs
+  Tarifs
+  Besoin d’aide ?
+  Assistance entreprise
+  
+  LA NEWSLETTER QUI FAIT LE TAF
+  
+  Une fois par semaine, des histoires, des jobs et des conseils dans votre boite mail.
+  
+  Je m'abonne
+  Vous pouvez vous désabonner à tout moment. On n'est pas susceptibles, promis. Pour en savoir plus sur notre politique de protection des données, 
+  cliquez-ici.
+  Employeurs
+  Mon espace employeur
+  Mentions légales
+  CGU
+  Politique de confidentialité
+  Chartes Welcome to the Jungle
+  Politique cookies
+  Gestion des cookies
+  France (FR)

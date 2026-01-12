@@ -1,0 +1,787 @@
+{
+  "_comment": "User Configuration - All user-specific information in one place",
+  "_instructions": "Edit this file to customize the system for your use. This makes the software user-agnostic.",
+  "personal": {
+    "name": "Mohamed BACHAR",
+    "gender": "male",
+    "degree": "Ingénieur en IA et Data Science",
+    "title": "Data Scientist & AI Engineer"
+  },
+  "contact": {
+    "email": "m.bachar.fr@gmail.com",
+    "phone": "+33 7 45 50 19 06",
+    "location": "Paris, France",
+    "linkedin": "https://www.linkedin.com/in/mohamed-bachar-93590224b/",
+    "github": "https://github.com/moebachar",
+    "website": ""
+  },
+  "preferences": {
+    "default_language": "fr",
+    "profile_photo": "",
+    "resume_format": "modern"
+  },
+  "education": [
+    {
+      "degree": {
+        "fr": "Diplôme d'Ingénieur en Intelligence Artificielle & Science des Données",
+        "en": "Engineering Degree in Artificial Intelligence & Data Science"
+      },
+      "institution": "Arts et Métiers",
+      "location": {
+        "fr": "Meknès, Maroc",
+        "en": "Meknès, Morocco"
+      },
+      "start": "2022-09",
+      "end": "2025-09",
+      "description": ""
+    },
+    {
+      "degree": {
+        "fr": "Master (Double Diplôme) : Ingénierie des Systèmes Cyber-Physiques",
+        "en": "Masters (Double Degree): Cyber-Physical Systems Engineering"
+      },
+      "institution": "Arts et Métiers",
+      "location": {
+        "fr": "Aix-en-Provence, France",
+        "en": "Aix-en-Provence, France"
+      },
+      "start": "2024-09",
+      "end": "2025-09",
+      "description": ""
+    },
+    {
+      "degree": {
+        "fr": "Classes Préparatoires aux Grandes Écoles",
+        "en": "Preparatory Class"
+      },
+      "institution": "Arts et Métiers",
+      "location": {
+        "fr": "Meknès, Maroc",
+        "en": "Meknès, Morocco"
+      },
+      "start": "2022-09",
+      "end": "2019-09",
+      "description": ""
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": {
+        "fr": "Français",
+        "en": "French"
+      },
+      "proficiency": {
+        "fr": "Bilingue",
+        "en": "Bilingual Proficiency"
+      }
+    },
+    {
+      "language": {
+        "fr": "Anglais",
+        "en": "English"
+      },
+      "proficiency": {
+        "fr": "Bilingue",
+        "en": "Bilingual Proficiency"
+      }
+    }
+  ],
+  "static_experiences": [
+    {
+      "role": {
+        "fr": "Data Scientist",
+        "en": "Data Scientist"
+      },
+      "company": "ONCF",
+      "location": {
+        "fr": "Meknès, Maroc",
+        "en": "Meknès, Morocco"
+      },
+      "start": "2023-06",
+      "end": "2023-08",
+      "description": {
+        "fr": "Conception et mise en œuvre d'une base de données SQL pour centraliser les données d'incidents ferroviaires à des fins d'analyse\nDéveloppement d'une interface React interactive permettant la saisie d'anomalies et de défauts\nEntraînement de modèles de classification ML pour la détection automatique de pièces défectueuses",
+        "en": "Designed and implemented an SQL database to centralize railway incident data for analysis\nDeveloped an interactive React interface enabling anomaly and defect entry\nTrained ML classification models for automatic detection of defective parts"
+      }
+    }
+  ],
+  "template_experiences": [
+    {
+      "company": "TNP Consultants",
+      "location": {
+        "fr": "Paris, France",
+        "en": "Paris, France"
+      },
+      "start": "2025-02",
+      "end": "2025-08"
+    },
+    {
+      "company": "PRESANCE",
+      "location": {
+        "fr": "Paris, France",
+        "en": "Paris, France"
+      },
+      "start": "2025-03",
+      "end": "2025-08"
+    },
+    {
+      "company": "AI Movement",
+      "location": {
+        "fr": "Rabat, Maroc",
+        "en": "Rabat, Morocco"
+      },
+      "start": "2024-03",
+      "end": "2024-09"
+    }
+  ],
+  "metadata": {
+    "created": "2025-12-17",
+    "last_updated": "2025-12-17",
+    "version": "2.0.0"
+  },
+  "skills_database": {
+    "skills": {
+      "Python": {
+        "category": "language",
+        "order": 1
+      },
+      "Java": {
+        "category": "language",
+        "order": 1
+      },
+      "Rust": {
+        "category": "language",
+        "order": 1
+      },
+      "C/C++": {
+        "category": "language",
+        "order": 1
+      },
+      "JavaScript": {
+        "category": "language",
+        "order": 1
+      },
+      "SQL": {
+        "category": "language",
+        "order": 1
+      },
+      "PyTorch": {
+        "category": "ml_framework",
+        "order": 2
+      },
+      "TensorFlow": {
+        "category": "ml_framework",
+        "order": 2
+      },
+      "Scikit-learn": {
+        "category": "ml_framework",
+        "order": 2
+      },
+      "OpenAI API": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "LangChain": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "Ollama": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "LlamaIndex": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "Hugging Face": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "Transformers": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "YOLO": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "OpenCV": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "LLM": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "NLP": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "ONNX": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "RAG": {
+        "category": "ai_tool",
+        "order": 3
+      },
+      "React": {
+        "category": "web_framework",
+        "order": 4
+      },
+      "Flask": {
+        "category": "web_framework",
+        "order": 4
+      },
+      "Django": {
+        "category": "web_framework",
+        "order": 4
+      },
+      "FastAPI": {
+        "category": "web_framework",
+        "order": 4
+      },
+      "HTML/CSS": {
+        "category": "web_framework",
+        "order": 4
+      },
+      "Pandas": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "NumPy": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "Matplotlib": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "Plotly": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "Streamlit": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "Excel": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "Jupyter": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "Tensorboard": {
+        "category": "data_tool",
+        "order": 5
+      },
+      "PostgreSQL": {
+        "category": "database",
+        "order": 6
+      },
+      "MongoDB": {
+        "category": "database",
+        "order": 6
+      },
+      "Chroma": {
+        "category": "database",
+        "order": 6
+      },
+      "ChromaDB": {
+        "category": "database",
+        "order": 6
+      },
+      "Elasticsearch": {
+        "category": "database",
+        "order": 6
+      },
+      "SQLAlchemy": {
+        "category": "database",
+        "order": 6
+      },
+      "Apache Kafka": {
+        "category": "big_data",
+        "order": 7
+      },
+      "Apache Spark": {
+        "category": "big_data",
+        "order": 7
+      },
+      "Apache Airflow": {
+        "category": "big_data",
+        "order": 7
+      },
+      "ETL": {
+        "category": "big_data",
+        "order": 7
+      },
+      "Databricks": {
+        "category": "big_data",
+        "order": 7
+      },
+      "AWS": {
+        "category": "cloud",
+        "order": 8
+      },
+      "Azure": {
+        "category": "cloud",
+        "order": 8
+      },
+      "GCP": {
+        "category": "cloud",
+        "order": 8
+      },
+      "Docker": {
+        "category": "cloud",
+        "order": 8
+      },
+      "Kubernetes": {
+        "category": "cloud",
+        "order": 8
+      },
+      "Git": {
+        "category": "devops",
+        "order": 9
+      },
+      "GitHub Actions": {
+        "category": "devops",
+        "order": 9
+      },
+      "CI/CD": {
+        "category": "devops",
+        "order": 9
+      },
+      "MLOps": {
+        "category": "devops",
+        "order": 9
+      },
+      ".NET Framework": {
+        "category": "devops",
+        "order": 9
+      },
+      "Tableau": {
+        "category": "bi_tool",
+        "order": 10
+      },
+      "PowerBI": {
+        "category": "bi_tool",
+        "order": 10
+      },
+      "Kibana": {
+        "category": "bi_tool",
+        "order": 10
+      }
+    },
+    "essential_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Docker",
+      "SQL"
+    ]
+  },
+  "projects_database": {
+    "Pipeline d'automatisation pour revue systématique": {
+      "contexte": "Projet académique/recherche",
+      "domains": [
+        "research",
+        "academic",
+        "IA générative",
+        "NLP"
+      ],
+      "technologies": [
+        "Python",
+        "OpenAI API",
+        "LangChain",
+        "Chroma",
+        "NLTK",
+        "PyPDF2",
+        "text-embedding-ada-002",
+        "Excel",
+        "openpyxl"
+      ],
+      "description": "Conception d'une architecture modulaire pour le traitement automatisé de grands corpus documentaires et l'extraction d'informations via l'intelligence artificielle.",
+      "realisations": [
+        "Mise en place de pipelines d'ingestion et de transformation de données non structurées",
+        "Intégration de bases de données vectorielles pour la recherche sémantique haute performance",
+        "Développement de modules d'analyse contextuelle basés sur les modèles de langage (LLM)",
+        "Automatisation des processus décisionnels complexes avec génération de rapports structurés"
+      ],
+      "metiers": [
+        "AI Engineer",
+        "Generative AI Engineer",
+        "Machine Learning Engineer",
+        "Data Engineer"
+      ],
+      "priority": 0.7
+    },
+    "Système de surveillance coopérative avec robots e-Puck": {
+      "contexte": "Projet académique en robotique",
+      "domains": [
+        "academic",
+        "robotics",
+        "computer vision",
+        "research"
+      ],
+      "technologies": [
+        "Python",
+        "Webots",
+        "YOLOv8",
+        "OpenCV",
+        "NumPy",
+        "Matplotlib",
+        "Anaconda"
+      ],
+      "description": "Développement d'un système autonome multi-agents axé sur la perception de l'environnement, la collaboration inter-systèmes et la prise de décision en temps réel.",
+      "realisations": [
+        "Implémentation d'algorithmes de communication et de coordination pour systèmes distribués",
+        "Intégration de solutions de vision par ordinateur pour la détection et l'analyse de scènes",
+        "Conception de logiques de navigation autonome et d'optimisation de trajectoires",
+        "Optimisation des modèles d'inférence pour garantir un traitement en temps réel"
+      ],
+      "metiers": [
+        "Computer Vision Engineer",
+        "Robotics Software Engineer"
+      ],
+      "priority": 0.2
+    },
+    "Plateforme Watiqaty - Assistant IA administratif": {
+      "contexte": "Projet entrepreneurial/innovation sociale",
+      "domains": [
+        "innovation",
+        "entrepreneuriat",
+        "IA générative",
+        "SaaS",
+        "startup"
+      ],
+      "technologies": [
+        "Python",
+        "Flask",
+        "React.js",
+        "LangChain",
+        "RAG",
+        "Ollama",
+        "ChromaDB",
+        "Ant Design",
+        "Chat Engine API",
+        "BeautifulSoup",
+        "Tavily",
+        "Node.js"
+      ],
+      "description": "Architecture Full-Stack d'une solution SaaS intégrant l'IA générative pour simplifier l'accès à l'information et automatiser l'interaction utilisateur.",
+      "realisations": [
+        "Architecture d'un système RAG (Retrieval-Augmented Generation) hybride et adaptatif",
+        "Développement d'interfaces utilisateurs réactives couplées à des services backend robustes",
+        "Orchestration de modèles de langage (Locaux/Cloud) et d'APIs tierces",
+        "Mise en œuvre de protocoles de validation pour assurer la fiabilité des réponses générées"
+      ],
+      "metiers": [
+        "Machine Learning Engineer",
+        "Generative AI Engineer",
+        "AI Engineer",
+        "AI Developer",
+        "Software Engineer"
+      ],
+      "priority": 0.4
+    },
+    "Plateforme de détection d'objets automatisée": {
+      "contexte": "Projet académique/développement logiciel",
+      "domains": [
+        "academic",
+        "MLOps",
+        "computer vision",
+        "software development"
+      ],
+      "technologies": [
+        "Python",
+        "Flask",
+        "React.js",
+        "SQLite",
+        "SQLAlchemy",
+        "OpenCV",
+        "PyTorch",
+        "Torchvision",
+        "Ultralytics YOLO",
+        "Matplotlib",
+        "Ant Design",
+        "Bootstrap",
+        "Pandas",
+        "NumPy"
+      ],
+      "description": "Création d'une plateforme MLOps de bout en bout facilitant le cycle de vie des données, de l'annotation jusqu'à la préparation des modèles d'apprentissage.",
+      "realisations": [
+        "Développement d'outils interactifs pour la gestion et l'annotation de jeux de données",
+        "Implémentation de pipelines de prétraitement et d'augmentation de données configurables",
+        "Automatisation des flux de travail pour la préparation et le nettoyage des données",
+        "Conception de modules d'exportation et d'interopérabilité avec les frameworks standards"
+      ],
+      "metiers": [
+        "Machine Learning Engineer",
+        "MLOps Engineer",
+        "AI Engineer",
+        "Computer Vision Engineer",
+        "Software Engineer"
+      ],
+      "priority": 0.5
+    },
+    "Plateforme d'analytics e-commerce temps réel": {
+      "contexte": "Projet personnel d'apprentissage",
+      "domains": [
+        "Big Data",
+        "e-commerce",
+        "cloud",
+        "streaming",
+        "analytics"
+      ],
+      "technologies": [
+        "Python",
+        "Apache Kafka",
+        "Apache Spark Streaming",
+        "Apache Airflow",
+        "Elasticsearch",
+        "Kibana",
+        "Docker",
+        "Docker Compose",
+        "GitHub Actions",
+        "AWS"
+      ],
+      "description": "Conception d'une infrastructure Big Data évolutive pour le traitement de flux de données en temps réel et l'analyse décisionnelle distribuée.",
+      "realisations": [
+        "Architecture de pipelines de données distribués pour l'ingestion de flux massifs",
+        "Orchestration de workflows de traitement de données (ETL) et de tâches planifiées",
+        "Déploiement d'infrastructures conteneurisées via des processus CI/CD automatisés",
+        "Mise en place de solutions de visualisation et de monitoring des indicateurs clés"
+      ],
+      "metiers": [
+        "Data Engineer",
+        "Big Data Engineer",
+        "Cloud Data Engineer",
+        "Streaming Data Engineer",
+        "Data Platform Engineer"
+      ],
+      "priority": 0.2
+    },
+    "Transformation digitale et gouvernance SI - UPHF": {
+      "contexte": "Mission de conseil/stage en transformation digitale",
+      "domains": [
+        "consulting",
+        "transformation digitale",
+        "gouvernance",
+        "projet management"
+      ],
+      "technologies": [
+        "Jira",
+        "Azure DevOps",
+        "MS Project",
+        "PowerBI",
+        "Excel",
+        "méthodologies Agile/Scrum",
+        "SharePoint"
+      ],
+      "description": "Pilotage stratégique de la transformation des processus IT et mise en place de cadres de gouvernance pour l'optimisation de la gestion de projets.",
+      "realisations": [
+        "Animation d'ateliers de cadrage et définition des besoins stratégiques",
+        "Gestion opérationnelle de projets avec suivi des risques et coordination transverse",
+        "Réalisation d'études comparatives pour la sélection et l'intégration d'outils de pilotage",
+        "Conception de tableaux de bord décisionnels pour le reporting exécutif"
+      ],
+      "metiers": [
+        "Data Consultant",
+        "Data Governance Consultant",
+        "PMO (Project Management Officer)",
+        "BI Consultant"
+      ],
+      "priority": 0.9
+    },
+    "Data catalog et gouvernance des données - EPSF": {
+      "contexte": "Mission de conseil en architecture données",
+      "domains": [
+        "consulting",
+        "data governance",
+        "architecture données",
+        "data engineering"
+      ],
+      "technologies": [
+        "Docker",
+        "Apache Airflow",
+        "OpenMetadata",
+        "Python",
+        "APIs REST",
+        "Elasticsearch",
+        "Kubernetes",
+        "SQL",
+        "PostgreSQL",
+        "CI/CD"
+      ],
+      "description": "Implémentation d'une stratégie de gouvernance des données d'entreprise via le déploiement de solutions de cartographie et de gestion des métadonnées.",
+      "realisations": [
+        "Cartographie exhaustive des flux de données et des systèmes d'information",
+        "Déploiement et configuration technique de plateformes de gouvernance de données",
+        "Développement de connecteurs et d'automatisations pour l'ingestion de métadonnées",
+        "Mise en place de la supervision technique et accompagnement des équipes métiers"
+      ],
+      "metiers": [
+        "Data Architect",
+        "Data Governance Consultant",
+        "Data Engineer",
+        "Data Consultant"
+      ],
+      "priority": 0.7
+    },
+    "Architecture data souveraine et assistant IA - PRESANCE": {
+      "contexte": "Mission de conseil en stratégie data et innovation IA",
+      "domains": [
+        "consulting",
+        "innovation IA",
+        "transformation data",
+        "IA générative",
+        "architecture cloud"
+      ],
+      "technologies": [
+        "Python",
+        "LangChain",
+        "RAG",
+        "Azure",
+        "AWS",
+        "GCP",
+        "Databricks",
+        "Snowflake",
+        "Delta Lake",
+        "Docker",
+        "APIs REST",
+        "NLP",
+        "Machine Learning",
+        "PowerBI"
+      ],
+      "description": "Accompagnement à la transformation Data & IA, alliant audit d'architecture technique et développement de preuves de concept (PoC) innovantes.",
+      "realisations": [
+        "Audit et recommandations stratégiques sur les architectures de données modernes",
+        "Identification et priorisation des cas d'usage IA à forte valeur ajoutée",
+        "Prototypage rapide de solutions basées sur l'IA Générative et le RAG",
+        "Conduite du changement et transfert de compétences via des formations techniques"
+      ],
+      "metiers": [
+        "Data & AI Consultant",
+        "Generative AI Engineer",
+        "Data Architect",
+        "Data Consultant"
+      ],
+      "priority": 0.7
+    },
+    "Projet de Vision par Ordinateur et Reconstruction 3D": {
+      "contexte": "Stage AI Engineer au Centre International d'Intelligence Artificielle du Maroc",
+      "domains": [
+        "R&D",
+        "computer vision",
+        "deep learning",
+        "research",
+        "3D reconstruction"
+      ],
+      "technologies": [
+        "PyTorch",
+        "CUDA",
+        "OpenCV",
+        "Open3D",
+        "NumPy",
+        "TensorBoard",
+        "GPU optimization",
+        "Deep Learning"
+      ],
+      "description": "Recherche et développement en Deep Learning appliqué à la vision 3D, focalisé sur la reconstruction géométrique et l'optimisation de performance.",
+      "realisations": [
+        "Développement d'algorithmes avancés pour l'extraction et le suivi de caractéristiques visuelles",
+        "Implémentation de modèles neuronaux pour la reconstruction et le rendu 3D",
+        "Application de techniques d'optimisation mathématique pour la géométrie multi-vues",
+        "Optimisation du code pour le calcul parallèle et l'accélération GPU"
+      ],
+      "metiers": [
+        "Computer Vision Engineer",
+        "Deep Learning Engineer",
+        "R&D Engineer",
+        "AI Engineer",
+        "Data Scientist"
+      ],
+      "priority": 0.6
+    },
+    "TNP SI - Outil d'Architecture de Systèmes d'Information": {
+      "contexte": "Projet R&D / Développement Logiciel",
+      "domains": [
+        "R&D",
+        "software development",
+        "IA",
+        "conformité",
+        "architecture SI"
+      ],
+      "technologies": [
+        "Python",
+        "ReactJS",
+        "Electron",
+        "Flask",
+        "Docker",
+        "PyTorch",
+        "ChromaDB",
+        "Ollama",
+        "NetworkX",
+        "React Flow",
+        "Scikit-learn",
+        "Node2Vec"
+      ],
+      "description": "Développement d'une application desktop intelligente pour la modélisation, l'analyse et la mise en conformité réglementaire des architectures de systèmes d'information.",
+      "realisations": [
+        "Conception d'une architecture modulaire (Desktop/Conteneurisée) pour la gestion visuelle de données complexes",
+        "Développement de modèles d'IA prédictifs sur graphes pour l'assistance à la conception et la détection d'anomalies",
+        "Intégration de pipelines RAG (Retrieval-Augmented Generation) pour l'automatisation des audits de conformité",
+        "Automatisation de la production de rapports d'analyse technique et de documentation décisionnelle"
+      ],
+      "metiers": [
+        "Full Stack Engineer",
+        "AI Engineer",
+        "Software Architect",
+        "R&D Engineer",
+        "Python Developer",
+        "Data Scientist"
+      ],
+      "priority": 0.9
+    },
+    "Moteur d'IA pour l'Architecture d'Entreprise (TNP SI)": {
+      "contexte": "Projet data science / Deep Learning sur Graphes",
+      "domains": [
+        "data science",
+        "deep learning",
+        "conformité",
+        "R&D",
+        "IA générative",
+        "Transformation Digitale"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Graph Neural Networks (GCN)",
+        "Node2Vec",
+        "Scikit-learn",
+        "ChromaDB",
+        "LLM (RAG)",
+        "NetworkX",
+        "Docker",
+        "React"
+      ],
+      "description": "Développement d'un moteur d'intelligence artificielle hybride combinant Deep Learning géométrique et NLP pour l'analyse prédictive et la mise en conformité des systèmes d'information.",
+      "realisations": [
+        "Conception et entraînement de réseaux de neurones sur graphes (GCN) pour la recommandation contextuelle de composants applicatifs",
+        "Implémentation d'algorithmes non supervisés (Isolation Forest, Embeddings) pour la détection d'anomalies structurelles et l'optimisation topologique",
+        "Développement d'un pipeline RAG (Retrieval-Augmented Generation) pour l'audit réglementaire automatisé (RGPD, PSSI) via recherche sémantique",
+        "Intégration des modèles d'inférence dans une architecture micro-services conteneurisée pour l'aide à la décision en temps réel"
+      ],
+      "metiers": [
+        "AI Engineer",
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "R&D Engineer"
+      ],
+      "priority": 0.85
+    }
+  }
+}

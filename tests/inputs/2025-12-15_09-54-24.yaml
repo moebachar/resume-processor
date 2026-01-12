@@ -1,0 +1,449 @@
+url: https://www.linkedin.com/jobs/view/4291894776/?eBP=CwEAAAGbITX6LTU38cgW5JjMlpj85aesqE76pfyaMykm945qnjwWbzTl2mNXwICiGXqYXnJXjoDCXpcz4sDB_UK7HeJsYkQoB3C0CvQPevIRjqFG6RKX2aEvd04rj2VzKSA0JOU-rTUPH0jGrcyEOpWKvmeLvmOTuPtBGzoddzdBg031MUnILQm5nEv4yQ1_KWkndF8F8QY2Pu0Ae0FUdVK0WxCQk5WPamDFTpPrD4kc21fuQyp5KcoJ2ExGd78ODvUOiZ4QOndBsoZdiRiAYoC846eolR0p7KGQFtftNERJehok07dIIRPfmj0w8TNnvsNaFLfAZuraPekaxia1x4uL8Qkt55m4GkHzr-zePk_hlSIZiSyJty45vMFHRFmke0DDcODtYUMhmTXDBjaL0RqiqKADLd9gQkRSqwUramVj1fv1Htez0aTTG_F44V60wKreUBX4DitGR5yV1goc8kavZNFQ6uiVvAO_28nq1kKtGUKS1Xv4l6jopmSQ0U8RJU6GH0tbrz6uCVjQ7fFE&trk=flagship3_search_srp_jobs&refId=k3l7fTZ6QFuEC392FrEZ5Q%3D%3D&trackingId=EXgxgAq8ccCL4CCjbfboHQ%3D%3D
+date: 2025-12-15
+time: 09:54:24
+text: |
+  0 notifications
+  Skip to main content
+  Home
+  My Network
+  Jobs
+  Messaging
+  17
+  Notifications
+  Me
+  For Business
+  Post a job
+  
+  AI Research Engineer - Datadog AI Research (DAIR) 
+  
+  Datadog • Paris, Île-de-France, France
+  
+  Save
+  Apply
+  
+  Datadog
+  
+  AI Research Engineer - Datadog AI Research (DAIR) 
+  
+  Paris, Île-de-France, France · Reposted 2 days ago · Over 100 people clicked apply
+  
+  Promoted by hirer • Responses managed off LinkedIn
+  
+  Full-time
+  Apply
+  Save
+  
+  See how you compare to over 100 others who clicked apply
+  
+  Access exclusive applicant insights, see jobs where you have the highest chance of hearing back, and more.
+  
+  Reactivate Premium: 50% Off
+  
+  People you can reach out to
+  
+  School alumni from Arts et Métiers - École Nationale Supérieure d'Arts et Métiers
+  
+  Show all
+  
+  Meet the hiring team
+  
+  Varun Reddy 
+  
+  • 2nd
+  
+  Sourcing AI talent at Datadog
+  
+  Message
+  About the job
+  
+  As a research engineer on our team, you will partner with research scientists to turn research ideas into working systems; building the data, tooling, and infrastructure that enable rapid iteration, trustworthy evaluation, and a smooth path from prototype to production.
+  
+  Building on our proven track record of AI-powered solutions (e.g., Bits AI, Watchdog, and Toto), Datadog AI Research is tackling high-risk, high-reward projects grounded in real-world challenges in cloud observability and security.
+  
+  We are currently focused on three key research areas:
+  
+  
+  Observability Foundation Models – Building state-of-the-art models for advanced forecasting, anomaly detection, and multi-modal telemetry analysis (logs, metrics, traces, etc.). These models will also provide the foundation for our agents (described below) to natively analyze telemetry data. 
+  Site Reliability Engineering (SRE) Autonomous Agents – Creating AI agents to automatically detect, diagnose, and resolve incidents in production environments, pushing the boundaries of multi-step planning, reasoning, and domain-specific knowledge. 
+  Production Code Repair Agents – Developing agents and models that leverage code, logs, runtime data, and other signals to identify, fix, and even preempt performance issues and security vulnerabilities in production code. 
+  
+  
+  What You’ll Do: 
+  
+  
+  Build and operate datasets, training and evaluation pipelines, benchmarks, and internal tooling 
+  Implement models, run experiments at scale, and profile for reliability, performance, and cost 
+  Orchestrate distributed training and distributed RL with Ray, including scheduling, scaling, and failure recovery 
+  Make the research stack observable, reproducible, and easier to use 
+  Establish rigorous automated benchmarks and regression tests for forecasting, anomaly detection, multi-modal analysis, agents, and code repair tasks 
+  Collaborate with Research Scientists, Product, and Engineering to integrate advanced AI capabilities into Datadog’s product ecosystem and to harden prototypes into reliable services 
+  Contribute high-quality code, documentation, and open-source artifacts that enable the community and internal teams to reproduce, extend, and evaluate results 
+  
+  
+  Who You Are: 
+  
+  
+  You have strong software engineering skills with experience in domains such as observability, SRE, or security 
+  You have depth in distributed computing and ML systems for training and inference at scale; experience with Ray, Slurm, or similar frameworks is a plus 
+  You are proficient in Python, familiar with a systems language (e.g., Rust, C++, or Go), and you are comfortable with modern cloud and data infrastructure 
+  You have practical experience implementing and operating ML training and inference systems (e.g., PyTorch or JAX), including containerization, orchestration, and GPU acceleration 
+  You are familiar with efficient training, fine-tuning, and inference techniques for large foundation models 
+  You can explain design and performance trade-offs clearly to both technical and non-technical audiences 
+  You have a strong interest in open-science and open-source contributions, including establishing rigorous benchmarks and sharing artifacts with the community 
+  
+  
+  Bonus Points:
+  
+  
+  You have a demonstrated ability to bridge cutting-edge research prototypes and real-world product applications, ideally with large foundation models, generative AI agents, or domain-specific LLM deployments 
+  You are passionate about pushing the boundaries of AI while maintaining a strong focus on customer impact, scalability, and responsible deployment of new technologies 
+  You have hands-on experience with GPU programming and optimization, including experience in CUDA 
+  You have experience writing production data pipelines and applications 
+  You have experience supporting or contributing to research publications 
+  
+  
+  Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about AI Research and want to grow your skills, we encourage you to apply. 
+  
+  Benefits and Growth: 
+  
+  
+  Competitive global benefits 
+  New hire stock equity (RSUs) and employee stock purchase plan (ESPP) 
+  Opportunity to collaborate closely with colleagues across the Datadog offices in New York City and Paris 
+  Opportunity to attend and present at conferences and meetups 
+  Intra-departmental mentor and buddy program for in-house networking 
+  An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups) 
+  
+  
+  Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.
+  
+  About Datadog: 
+  
+  Datadog (NASDAQ: DDOG) is a global SaaS business, delivering a rare combination of growth and profitability. We are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers’ entire technology stacks. Built by engineers, for engineers, Datadog is used by organizations of all sizes across a wide range of industries. Together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. Join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more about #DatadogLife on Instagram, LinkedIn, and Datadog Learning Center. 
+  
+  Equal Opportunity at Datadog:
+  
+  Datadog is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference.
+  
+  Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete this form. This form is for accommodation requests only and cannot be used to inquire about the status of applications.
+  
+  Privacy and AI Guidelines:
+  
+  Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice. For information on our AI policy, please visit Interviewing at Datadog AI Guidelines.
+  
+  Set alert for similar jobs
+  
+  Artificial Intelligence Engineer, Paris, Île-de-France, France
+  
+  Off
+  
+  Job search faster with Premium
+  
+  Access company insights like strategic priorities, headcount trends, and more
+  
+  Youssef and millions of other members use Premium
+  
+  Reactivate Premium
+  
+  Cancel anytime. No hidden fees.
+  
+  About the company
+  
+  Datadog
+  
+  483,458 followers
+  
+  Follow
+  
+  Software Development
+  
+   • 
+  
+  1001-5000 employees
+  
+   • 
+  
+  10,444 on LinkedIn
+  
+  Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.
+  
+  
+  … more
+  
+  Commitments
+  
+  Career growth and learning
+  
+  We believe in continuous growth—across our people, our product, and our global footprint. That’s why it’s important to us that we invest heavily in both your personal and professional development. Through a focused approach we curate, develop, and deliver quality initiatives and programs that are accessible and useful to all Datadogs.
+  … more
+  
+  Diversity, equity, and inclusion
+  
+  At Datadog, diversity means making a conscious effort to reflect the many experiences and identities of the world outside, while treating each other with fairness and without bias. Inclusion is the choice we make every day to foster an environment where people of all backgrounds not only belong but excel, so that together, as a company, we can succeed.
+  … more
+  
+  Work-life balance
+  
+  We believe Datadogs should have the support they need to maintain work/life balance, grow personally and professionally, and save for their future. We offer a range of industry-leading benefits that are aimed at strengthening the health and financial wellness of our employees and their dependents. We offer a mental health care and awareness program that includes 10 free annual appointments for both you and your dependents. Eligible offices also offer fitness reimbursements for everything from yoga classes to ski passes. Flexible Paid Time Off gives employees the freedom to take vacation time and personal days as needed.
+  … more
+  
+  Learn more
+  
+  Interested in working with us in the future?
+  
+  Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+  
+  I’m interested
+  
+  Company photos
+  
+  More jobs
+  
+  ML Ops / IA Embarquée - DeepTech / GreenTech - Marseille
+  
+  LITY
+  
+  Greater Marseille Metropolitan Area (On-site)
+  
+  Posted on December 4, 2025, 12:17 PM
+  1 week ago
+  
+  AI Engineer Intern
+  
+  Arcade AI
+  
+  Paris (Hybrid)
+  
+  Posted on November 29, 2025, 1:35 AM
+  2 weeks ago
+  
+  AI Engineer H/F (Verified job)
+  AI Engineer H/F 
+  
+  Devoteam | Microsoft Partner
+  
+  Levallois-Perret (On-site)
+  
+  1 school alumni works here
+  
+  Posted on December 11, 2025, 12:11 PM
+  3 days ago
+  
+   · 
+  
+   Easy Apply
+  
+  Junior Data Scientist - Blitz (Verified job)
+  Junior Data Scientist - Blitz 
+  
+  Voodoo
+  
+  Paris (On-site)
+  
+  2 school alumni work here
+  
+  Posted on December 2, 2025, 2:21 PM
+  1 week ago
+  
+  Machine Learning Engineer
+  
+  JD.COM
+  
+  Paris (On-site)
+  
+  Posted on December 5, 2025, 7:50 PM
+  1 week ago
+  
+  Computer Vision Engineer
+  
+  Harmattan AI
+  
+  Paris (On-site)
+  
+  3 school alumni work here
+  
+  Posted on November 28, 2025, 12:25 PM
+  2 weeks ago
+  
+  Machine Learning Engineer (Verified job)
+  Machine Learning Engineer 
+  
+  Corin Group
+  
+  Montbonnot-Saint-Martin (On-site)
+  
+  Actively reviewing applicants
+  
+  Posted on December 5, 2025, 11:16 AM
+  1 week ago
+  
+   · 
+  
+   Easy Apply
+  
+  Ingénieur.e en Intelligence Artificielle (Verified job)
+  Ingénieur.e en Intelligence Artificielle 
+  
+  Telespazio
+  
+  Toulouse (On-site)
+  
+  Actively reviewing applicants
+  
+  Posted on November 26, 2025, 3:38 PM
+  2 weeks ago
+  
+   · 
+  
+   Easy Apply
+  
+  DEVELOPPEUR INFORMATIQUE en VISION PAR ORDINATEUR - TRAITEMENT DE l'IMAGE - INTELLIGENCE ARTIFICIELLE (Verified job)
+  DEVELOPPEUR INFORMATIQUE en VISION PAR ORDINATEUR - TRAITEMENT DE l'IMAGE - INTELLIGENCE ARTIFICIELLE 
+  
+  MAF RODA AGROBOTIC
+  
+  Montauban (On-site)
+  
+  Actively reviewing applicants
+  
+  Posted on November 23, 2025, 9:12 PM
+  3 weeks ago
+  
+   · 
+  
+   Easy Apply
+  
+  Machine Learning Engineer H/F (Verified job)
+  Machine Learning Engineer H/F 
+  
+  NEXTON
+  
+  Bordeaux (On-site)
+  
+  Posted on December 8, 2025, 6:55 PM
+  6 days ago
+  
+  Ingénieur Intelligence Artificielle / AI-ML Engineer (Verified job)
+  Ingénieur Intelligence Artificielle / AI-ML Engineer 
+  
+  GE Vernova
+  
+  Villeurbanne
+  
+  1 connection works here
+  
+  Posted on December 4, 2025, 3:55 AM
+  1 week ago
+  
+  Ingénieur Machine Learning – Modélisation et IA appliquée (Verified job)
+  Ingénieur Machine Learning – Modélisation et IA appliquée 
+  
+  EXALT
+  
+  Lyon (On-site)
+  
+  5 school alumni work here
+  
+  Posted on December 2, 2025, 1:55 PM
+  1 week ago
+  
+  See more jobs like this
+  
+  Mohamed, invest in your future with Premium
+  
+  See jobs where you’re a top applicant
+  
+  Message anyone with InMail
+  
+  Get resume and cover letter tips
+  
+  Ace interviews with personalized AI practice
+  
+  Youssef and millions of other members use Premium
+  
+  Reactivate Premium: 50% Off
+  
+  Cancel anytime. No hidden fees.
+  
+  Network too small?
+  
+  Post a job
+  
+  About
+  
+  Accessibility
+  
+  Talent Solutions
+  
+  Community Guidelines
+  
+  Careers
+  
+  Marketing Solutions 
+  
+  Privacy & Terms
+  
+  Ad Choices
+  
+  Advertising
+  
+  Sales Solutions
+  
+  Mobile
+  
+  Small Business
+  
+  Safety Center
+  
+  LinkedIn Corporation © 2025
+  
+  Questions?
+  
+  Visit our Help Center.
+  
+  Manage your account and privacy
+  
+  Go to your Settings.
+  
+  Recommendation transparency
+  
+  Learn more about Recommended Content.
+  
+  Select language
+  
+  العربية (Arabic)
+  বাংলা (Bangla)
+  Čeština (Czech)
+  Dansk (Danish)
+  Deutsch (German)
+  Ελληνικά (Greek)
+  English (English)
+  Español (Spanish)
+  فارسی (Persian)
+  Suomi (Finnish)
+  Français (French)
+  हिंदी (Hindi)
+  Magyar (Hungarian)
+  Bahasa Indonesia (Indonesian)
+  Italiano (Italian)
+  עברית (Hebrew)
+  日本語 (Japanese)
+  한국어 (Korean)
+  मराठी (Marathi)
+  Bahasa Malaysia (Malay)
+  Nederlands (Dutch)
+  Norsk (Norwegian)
+  ਪੰਜਾਬੀ (Punjabi)
+  Polski (Polish)
+  Português (Portuguese)
+  Română (Romanian)
+  Русский (Russian)
+  Svenska (Swedish)
+  తెలుగు (Telugu)
+  ภาษาไทย (Thai)
+  Tagalog (Tagalog)
+  Türkçe (Turkish)
+  Українська (Ukrainian)
+  Tiếng Việt (Vietnamese)
+  简体中文 (Chinese (Simplified))
+  正體中文 (Chinese (Traditional))
