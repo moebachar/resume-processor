@@ -70,7 +70,6 @@ class ProcessRequest(BaseModel):
     job_text: str
     user_json: Dict[str, Any]
     config_json: Dict[str, Any]
-    profile: Optional[str] = "moderate"
 
 
 class ExperienceItem(BaseModel):
@@ -231,7 +230,7 @@ async def process_resume(
 
     start_time = time.time()
 
-    logger.info(f"Processing full pipeline request (profile: {request.profile})")
+    logger.info(f"Processing full pipeline request")
 
     try:
         # Validate input
@@ -266,8 +265,7 @@ async def process_resume(
             user_json=request.user_json,
             config_json=request.config_json,
             job_text=request.job_text,
-            api_key=api_key,
-            profile=request.profile
+            api_key=api_key
         )
 
         processing_time = time.time() - start_time

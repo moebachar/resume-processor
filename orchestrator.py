@@ -28,8 +28,7 @@ async def process_resume_pipeline(
     user_json: Dict[str, Any],
     config_json: Dict[str, Any],
     job_text: str,
-    api_key: Optional[str] = None,
-    profile: str = "moderate"
+    api_key: Optional[str] = None
 ) -> Dict[str, Any]:
     """
     Process entire resume pipeline asynchronously.
@@ -43,7 +42,6 @@ async def process_resume_pipeline(
         config_json: Configuration (models, profiles, settings)
         job_text: Raw job description text
         api_key: OpenAI API key (optional, uses env var if not provided)
-        profile: Enhancement profile (conservative/moderate/aggressive)
 
     Returns:
         Dict with:
@@ -328,7 +326,6 @@ async def process_resume_pipeline(
                     "json_build": round(step5_time, 2)
                 },
                 "language": language,
-                "profile": profile,
                 "projects_selected": [p["project_name"] for p in selected_projects],
                 "average_ats_score": round(avg_ats_score, 2),
                 "total_skills": skills_result['metadata']['total_skills'],

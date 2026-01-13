@@ -70,8 +70,7 @@ def test_process_endpoint_full_pipeline(sample_job_text, sample_user_json, sampl
         json={
             "job_text": sample_job_text,
             "user_json": sample_user_json,
-            "config_json": sample_config_json,
-            "profile": "moderate"
+            "config_json": sample_config_json
         },
         timeout=120  # Full pipeline can take up to 2 minutes
     )

@@ -89,8 +89,7 @@ async def send_request(
     payload = {
         "job_text": job_text,
         "user_json": user_json,
-        "config_json": config_json,
-        "profile": "moderate"
+        "config_json": config_json
     }
 
     request_start = time.time()

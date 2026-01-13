@@ -48,8 +48,7 @@ build/
 {
   "job_text": "Job description text here...",
   "user_json": { /* user data */ },
-  "config_json": { /* configuration */ },
-  "profile": "moderate"
+  "config_json": { /* configuration */ }
 }
 ```
 

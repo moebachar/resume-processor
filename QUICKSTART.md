@@ -103,8 +103,7 @@ Create `test_prod.json`:
 {
   "job_text": "Senior Software Engineer\n\n5+ years experience in Python, FastAPI, Docker, and cloud platforms. Build scalable microservices...",
   "user_json": { /* your user.json data */ },
-  "config_json": { /* your config.json data */ },
-  "profile": "moderate"
+  "config_json": { /* your config.json data */ }
 }
 ```
 
