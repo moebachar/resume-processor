@@ -108,12 +108,20 @@ def test_process_endpoint_full_pipeline(sample_job_text, sample_user_json, sampl
     metadata = data["metadata"]
     assert "processing_time_seconds" in metadata
     assert "language" in metadata
-    assert "projects_selected" in metadata
+    assert "experiences" in metadata
     assert metadata["processing_time_seconds"] < 60  # Should be fast
+
+    # Check experiences metadata structure
+    experiences_meta = metadata["experiences"]
+    assert "total" in experiences_meta
+    assert "enhanced" in experiences_meta
+    assert "direct" in experiences_meta
+    assert "projects_used" in experiences_meta
 
     print(f"\n✓ Full pipeline completed in {elapsed:.2f}s")
     print(f"  Job: {job['job_title']} at {job['company_name']}")
-    print(f"  Projects selected: {len(metadata['projects_selected'])}")
+    print(f"  Experiences: {experiences_meta['total']} (enhanced: {experiences_meta['enhanced']}, direct: {experiences_meta['direct']})")
+    print(f"  Projects used: {experiences_meta['projects_used']}")
     print(f"  Language: {metadata['language']}")
     print(f"  ATS Score: {metadata.get('average_ats_score', 'N/A')}")
 

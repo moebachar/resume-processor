@@ -66,8 +66,12 @@ def extract_validated_skills(enhanced_experiences: List[Dict[str, Any]]) -> List
     """
     Extract all skills that were actually used in bullet points.
 
+    For enhanced experiences: extracts keywords_used from bullets
+    For direct experiences: extracts keywords_used (if any) from bullets
+
     Args:
         enhanced_experiences: List of adapted experiences with bullets
+            (can include both enhanced and direct experiences)
 
     Returns:
         List[str]: Unique validated skills
@@ -75,9 +79,18 @@ def extract_validated_skills(enhanced_experiences: List[Dict[str, Any]]) -> List
     validated_skills = set()
 
     for experience in enhanced_experiences:
+        # Check if this is a direct or enhanced experience
+        is_direct = experience.get("is_direct", False)
+
         for bullet in experience.get("bullets", []):
+            # For both types, extract keywords_used if present
             keywords = bullet.get("keywords_used", [])
             validated_skills.update(keywords)
+
+        # For direct experiences, also include any explicitly tracked keywords
+        if is_direct:
+            direct_keywords = experience.get("keywords_used", [])
+            validated_skills.update(direct_keywords)
 
     return list(validated_skills)
 

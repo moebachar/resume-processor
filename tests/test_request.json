@@ -1,0 +1,184 @@
+{
+  "job_text": "Data Scientist / AI Engineer\n\nNous recherchons un Data Scientist / AI Engineer expérimenté pour rejoindre notre équipe Innovation.\n\nMissions:\n- Concevoir et déployer des modèles de Machine Learning et Deep Learning\n- Développer des solutions basées sur l'IA Générative (LLM, RAG)\n- Mettre en place des pipelines de données et des architectures MLOps\n- Collaborer avec les équipes métiers pour identifier les cas d'usage IA\n- Assurer la mise en production et le monitoring des modèles\n\nCompétences requises:\n- Python, PyTorch, TensorFlow\n- LangChain, RAG, LLM\n- Docker, Kubernetes, CI/CD\n- SQL, PostgreSQL, bases vectorielles\n- Expérience en NLP et Computer Vision appréciée\n\nProfil:\n- Bac+5 en Data Science, IA ou équivalent\n- 2+ ans d'expérience en ML/AI\n- Autonomie et esprit d'équipe\n- Français et Anglais courants",
+  "user_json": {
+    "personal": {
+      "name": "Mohamed BACHAR",
+      "gender": "male",
+      "degree": "Ingénieur en IA et Data Science",
+      "title": "Data Scientist & AI Engineer"
+    },
+    "contact": {
+      "email": "m.bachar.fr@gmail.com",
+      "phone": "+33 7 45 50 19 06",
+      "location": "Paris, France",
+      "linkedin": "https://www.linkedin.com/in/mohamed-bachar-93590224b/"
+    },
+    "projects_database": {
+      "Pipeline d'automatisation pour revue systématique": {
+        "contexte": "Projet académique/recherche",
+        "company": "Arts et Métiers",
+        "location": {"en": "Aix-en-Provence, France", "fr": "Aix-en-Provence, France"},
+        "start_date": "2024-09",
+        "end_date": "2025-01",
+        "domains": ["research", "academic", "IA générative", "NLP"],
+        "technologies": ["Python", "OpenAI API", "LangChain", "Chroma", "NLTK", "PyPDF2"],
+        "realisations": [
+          "Mise en place de pipelines d'ingestion et de transformation de données non structurées",
+          "Intégration de bases de données vectorielles pour la recherche sémantique haute performance",
+          "Développement de modules d'analyse contextuelle basés sur les modèles de langage (LLM)",
+          "Automatisation des processus décisionnels complexes avec génération de rapports structurés"
+        ],
+        "metiers": ["AI Engineer", "Generative AI Engineer", "Machine Learning Engineer", "Data Engineer"],
+        "priority": 0.7
+      },
+      "Plateforme Watiqaty - Assistant IA administratif": {
+        "contexte": "Projet entrepreneurial/innovation sociale",
+        "company": "AI Movement",
+        "location": {"en": "Rabat, Morocco", "fr": "Rabat, Maroc"},
+        "start_date": "2024-03",
+        "end_date": "2024-09",
+        "domains": ["innovation", "entrepreneuriat", "IA générative", "SaaS", "startup"],
+        "technologies": ["Python", "Flask", "React.js", "LangChain", "RAG", "Ollama", "ChromaDB"],
+        "realisations": [
+          "Architecture d'un système RAG (Retrieval-Augmented Generation) hybride et adaptatif",
+          "Développement d'interfaces utilisateurs réactives couplées à des services backend robustes",
+          "Orchestration de modèles de langage (Locaux/Cloud) et d'APIs tierces",
+          "Mise en œuvre de protocoles de validation pour assurer la fiabilité des réponses générées"
+        ],
+        "metiers": ["Machine Learning Engineer", "Generative AI Engineer", "AI Engineer", "AI Developer", "Software Engineer"],
+        "priority": 0.4
+      },
+      "Data catalog et gouvernance des données - EPSF": {
+        "contexte": "Mission de conseil en architecture données",
+        "company": "TNP Consultants",
+        "location": {"en": "Paris, France", "fr": "Paris, France"},
+        "start_date": "2025-02",
+        "end_date": "2025-08",
+        "domains": ["consulting", "data governance", "architecture données", "data engineering"],
+        "technologies": ["Docker", "Apache Airflow", "OpenMetadata", "Python", "APIs REST", "Elasticsearch", "Kubernetes", "SQL", "PostgreSQL", "CI/CD"],
+        "realisations": [
+          "Cartographie exhaustive des flux de données et des systèmes d'information",
+          "Déploiement et configuration technique de plateformes de gouvernance de données",
+          "Développement de connecteurs et d'automatisations pour l'ingestion de métadonnées",
+          "Mise en place de la supervision technique et accompagnement des équipes métiers"
+        ],
+        "metiers": ["Data Architect", "Data Governance Consultant", "Data Engineer", "Data Consultant"],
+        "priority": 0.7
+      },
+      "Moteur d'IA pour l'Architecture d'Entreprise (TNP SI)": {
+        "contexte": "Projet data science / Deep Learning sur Graphes",
+        "company": "TNP Consultants",
+        "location": {"en": "Paris, France", "fr": "Paris, France"},
+        "start_date": "2025-02",
+        "end_date": "2025-08",
+        "domains": ["data science", "deep learning", "conformité", "R&D", "IA générative"],
+        "technologies": ["Python", "PyTorch", "Graph Neural Networks (GCN)", "Node2Vec", "Scikit-learn", "ChromaDB", "LLM (RAG)", "NetworkX", "Docker", "React"],
+        "realisations": [
+          "Conception et entraînement de réseaux de neurones sur graphes (GCN) pour la recommandation contextuelle",
+          "Implémentation d'algorithmes non supervisés pour la détection d'anomalies structurelles",
+          "Développement d'un pipeline RAG pour l'audit réglementaire automatisé via recherche sémantique",
+          "Intégration des modèles d'inférence dans une architecture micro-services conteneurisée"
+        ],
+        "metiers": ["AI Engineer", "Data Scientist", "Machine Learning Engineer", "R&D Engineer"],
+        "priority": 0.85
+      }
+    },
+    "skills_database": {
+      "skills": {
+        "Python": {"category": "language", "order": 1},
+        "PyTorch": {"category": "ml_framework", "order": 2},
+        "TensorFlow": {"category": "ml_framework", "order": 2},
+        "Scikit-learn": {"category": "ml_framework", "order": 2},
+        "LangChain": {"category": "ai_tool", "order": 3},
+        "RAG": {"category": "ai_tool", "order": 3},
+        "LLM": {"category": "ai_tool", "order": 3},
+        "OpenAI API": {"category": "ai_tool", "order": 3},
+        "NLP": {"category": "ai_tool", "order": 3},
+        "Docker": {"category": "cloud", "order": 8},
+        "Kubernetes": {"category": "cloud", "order": 8},
+        "PostgreSQL": {"category": "database", "order": 6},
+        "ChromaDB": {"category": "database", "order": 6},
+        "SQL": {"category": "language", "order": 1},
+        "FastAPI": {"category": "web_framework", "order": 4},
+        "Flask": {"category": "web_framework", "order": 4},
+        "React": {"category": "web_framework", "order": 4},
+        "Git": {"category": "devops", "order": 9},
+        "CI/CD": {"category": "devops", "order": 9}
+      },
+      "essential_skills": ["Python", "PyTorch", "Docker", "SQL"]
+    },
+    "experiences_config": [
+      {
+        "candidate_projects": [3],
+        "role_strategy": "enhanced",
+        "content_strategy": "enhanced"
+      },
+      {
+        "candidate_projects": [2],
+        "role_strategy": "enhanced",
+        "content_strategy": "direct"
+      },
+      {
+        "candidate_projects": [0, 1],
+        "role_strategy": "direct",
+        "content_strategy": "direct"
+      }
+    ],
+    "education": [
+      {
+        "degree": {"fr": "Diplôme d'Ingénieur en Intelligence Artificielle & Science des Données", "en": "Engineering Degree in Artificial Intelligence & Data Science"},
+        "institution": "Arts et Métiers",
+        "location": {"fr": "Meknès, Maroc", "en": "Meknès, Morocco"},
+        "start": "2022-09",
+        "end": "2025-09",
+        "description": ""
+      },
+      {
+        "degree": {"fr": "Master (Double Diplôme) : Ingénierie des Systèmes Cyber-Physiques", "en": "Masters (Double Degree): Cyber-Physical Systems Engineering"},
+        "institution": "Arts et Métiers",
+        "location": {"fr": "Aix-en-Provence, France", "en": "Aix-en-Provence, France"},
+        "start": "2024-09",
+        "end": "2025-09",
+        "description": ""
+      }
+    ],
+    "languages": [
+      {"language": {"fr": "Français", "en": "French"}, "proficiency": {"fr": "Bilingue", "en": "Bilingual"}},
+      {"language": {"fr": "Anglais", "en": "English"}, "proficiency": {"fr": "Bilingue", "en": "Bilingual"}}
+    ],
+    "certifications": []
+  },
+  "config_json": {
+    "openai": {
+      "default_model": "gpt-4o-mini"
+    },
+    "structuring": {
+      "model": "gpt-4o-mini",
+      "temperature": 0
+    },
+    "enhancing": {
+      "coordinator": {
+        "model": "gpt-4o-mini",
+        "temperature": 0.7
+      },
+      "bullet_coordinator": {
+        "model": "gpt-4o-mini",
+        "temperature": 0.6
+      },
+      "bullet_adaptation": {
+        "bullets_per_experience": 4,
+        "max_bullet_length": 150
+      },
+      "skills_generation": {
+        "target_technical_skills": 20,
+        "num_soft_skills": 5
+      },
+      "profile_generation": {
+        "model": "gpt-4o-mini"
+      },
+      "cover_letter": {
+        "model": "gpt-4o-mini"
+      }
+    }
+  }
+}

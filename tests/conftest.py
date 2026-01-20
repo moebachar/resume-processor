@@ -67,7 +67,8 @@ def sample_user_json():
                     "Built scalable microservices architecture serving 1M+ users",
                     "Implemented ML models for personalized recommendations",
                     "Reduced API latency by 60% through optimization"
-                ]
+                ],
+                "metiers": ["AI Engineer", "Machine Learning Engineer", "Software Engineer"]
             },
             "Project B": {
                 "company": "Startup Inc",
@@ -80,7 +81,8 @@ def sample_user_json():
                     "Designed and deployed Kubernetes-based infrastructure",
                     "Implemented CI/CD pipelines reducing deployment time by 80%",
                     "Maintained 99.9% uptime for critical services"
-                ]
+                ],
+                "metiers": ["DevOps Engineer", "Site Reliability Engineer", "Cloud Engineer"]
             },
             "Project C": {
                 "company": "Data Co",
@@ -92,9 +94,27 @@ def sample_user_json():
                 "realisations": [
                     "Built ETL pipelines processing 10TB+ data daily",
                     "Automated data quality checks reducing errors by 95%"
-                ]
+                ],
+                "metiers": ["Data Engineer", "ETL Developer", "Data Pipeline Engineer"]
             }
         },
+        "experiences_config": [
+            {
+                "candidate_projects": [0],
+                "role_strategy": "enhanced",
+                "content_strategy": "enhanced"
+            },
+            {
+                "candidate_projects": [1],
+                "role_strategy": "enhanced",
+                "content_strategy": "direct"
+            },
+            {
+                "candidate_projects": [2],
+                "role_strategy": "direct",
+                "content_strategy": "direct"
+            }
+        ],
         "skills_database": {
             "skills": {
                 "Python": {"category": "programming", "proficiency": "expert"},

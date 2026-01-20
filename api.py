@@ -28,8 +28,8 @@ logger = logging.getLogger(__name__)
 # Initialize FastAPI app
 app = FastAPI(
     title="Resume Processing Microservice",
-    version="2.0.0 - JSON Only",
-    description="AI-powered resume and cover letter generation service (JSON output only)"
+    version="3.0.0 - Dynamic Experiences",
+    description="AI-powered resume and cover letter generation with dynamic experience configuration"
 )
 
 # API Key authentication
@@ -65,8 +65,25 @@ class StructuringResponse(BaseModel):
     processing_time_seconds: float
 
 
+class ExperienceConfig(BaseModel):
+    """Configuration for a single experience in the resume"""
+    candidate_projects: List[int]  # List of project indexes (0-based) from projects_database
+    role_strategy: str = "enhanced"  # "direct" | "enhanced"
+    content_strategy: str = "enhanced"  # "direct" | "enhanced"
+
+
 class ProcessRequest(BaseModel):
-    """Request model for full pipeline processing"""
+    """Request model for full pipeline processing
+
+    user_json must contain:
+        - personal: Personal info
+        - contact: Contact info
+        - projects_database: Available projects dict
+        - skills_database: User skills
+        - experiences_config: List of ExperienceConfig (REQUIRED)
+        - education: Education list
+        - languages: Languages list
+    """
     job_text: str
     user_json: Dict[str, Any]
     config_json: Dict[str, Any]
@@ -81,6 +98,7 @@ class ExperienceItem(BaseModel):
     end_date: str
     bullets: List[str]
     context: str
+    is_direct: bool = False  # True if content was used directly (not enhanced)
 
 
 class ResumeData(BaseModel):

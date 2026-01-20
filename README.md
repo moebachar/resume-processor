@@ -41,16 +41,53 @@ build/
 ## API Endpoints
 
 ### `POST /process`
-**Main endpoint** - Full pipeline processing
+**Main endpoint** - Full pipeline processing with dynamic experience configuration
 
 **Request:**
 ```json
 {
   "job_text": "Job description text here...",
-  "user_json": { /* user data */ },
+  "user_json": {
+    "personal": { "name": "John Doe", "title": "Software Engineer" },
+    "contact": { "email": "john@example.com", "phone": "+33..." },
+    "projects_database": {
+      "Project A": { "contexte": "...", "technologies": [...], "metiers": [...], "realisations": [...] },
+      "Project B": { "..." },
+      "Project C": { "..." }
+    },
+    "skills_database": { "skills": {...}, "essential_skills": [...] },
+    "experiences_config": [
+      {
+        "candidate_projects": [0, 1],
+        "role_strategy": "enhanced",
+        "content_strategy": "enhanced"
+      },
+      {
+        "candidate_projects": [1, 2],
+        "role_strategy": "enhanced",
+        "content_strategy": "direct"
+      },
+      {
+        "candidate_projects": [2],
+        "role_strategy": "direct",
+        "content_strategy": "direct"
+      }
+    ],
+    "education": [...],
+    "languages": [...]
+  },
   "config_json": { /* configuration */ }
 }
 ```
+
+**Experience Configuration Options:**
+- `candidate_projects`: List of project indexes (0-based) referencing projects_database order
+- `role_strategy`:
+  - `"direct"` - Use role title exactly as-is from project
+  - `"enhanced"` - Adapt role title for ATS optimization
+- `content_strategy`:
+  - `"direct"` - Use bullet points directly from project (no AI enhancement)
+  - `"enhanced"` - Generate AI-enhanced bullet points for job fit
 
 **Response:**
 ```json
@@ -68,7 +105,8 @@ build/
         "location": "Paris, France",
         "start_date": "2023-01",
         "end_date": "2024-12",
-        "bullets": ["Bullet 1", "Bullet 2", "..."]
+        "bullets": ["Bullet 1", "Bullet 2", "..."],
+        "is_direct": false
       }
     ],
     "skills": {
@@ -83,7 +121,12 @@ build/
   "metadata": {
     "processing_time_seconds": 12.5,
     "language": "en",
-    "projects_selected": ["Project A", "Project B"],
+    "experiences": {
+      "total": 3,
+      "enhanced": 2,
+      "direct": 1,
+      "projects_used": ["Project A", "Project B", "Project C"]
+    },
     "average_ats_score": 85.3
   }
 }
@@ -241,5 +284,9 @@ For issues or questions, refer to the main project documentation.
 
 ## Version
 
-**v2.0.0** - Production JSON-only API (December 2024)
-"Deploying via CI/CD" 
+**v3.0.0** - Dynamic Experience Configuration (January 2025)
+- Dynamic number of experiences (not limited to 3)
+- Per-experience project candidate pools
+- Direct vs Enhanced content strategies
+- Direct vs Enhanced role strategies
+- Intelligent coordinator that respects constraints 
